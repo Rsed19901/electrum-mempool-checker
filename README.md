@@ -1,4 +1,4 @@
-# electrum-mempool-checker
+cf1595d4bdd86e4ed4f6ad7225583728528b4bf5# electrum-mempool-checker
 
 Retrieves mempool transactions from bitcoin core, then checks that they are known by an electrum server.
 
